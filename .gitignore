@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+templates-lab/
+bin/
+lib/
+include/
